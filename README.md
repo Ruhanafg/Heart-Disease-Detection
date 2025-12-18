@@ -1,7 +1,6 @@
 # Heart-Disease-Prediction-System-using-Logistic-Regression
 A Heart Disease Prediction System built on machine learning 
 
-## [DEPLOYED_LINK_IS_HERE](https://heart-disease-prediction-system.streamlit.app/)
 
 ## Principle 
 
@@ -151,16 +150,4 @@ else:
   - [1] : means patient has a unhealthy heart 💔💔💔💔
   
   
-## Contributor 
 
-#### [Ankit Nainwal](https://github.com/nano-bot01)
-- [Twitter](https://twitter.com/Anku___)
-- [LinkedIn](https://www.linkedin.com/in/ankit-nainwal1/?original_referer=)
-- [Hashnode](https://hashnode.com/@ankitnainwal)
-- [Instagram](https://www.instagram.com/the.ankit.nainwal/)
-<hr>
-
-- [Medium](https://medium.com/@ankitnainwal/heart-disease-prediction-system-using-logistic-regression-7dac1c243552)
-
-
-### Please ⭐⭐⭐. 
